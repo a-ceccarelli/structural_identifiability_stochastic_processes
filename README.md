@@ -46,7 +46,7 @@ The `.nb` files can be opened and evaluated in Mathematica, while the correspond
 |---|---|
 | `Section_4.1_coefficients_c1-c8.nb` | Derivation and verification of the coefficients c<sub>1</sub>, ..., c<sub>8</sub> of the scalar input-output PDE for the total particle density, as presented in Section 4.1. |
 | `Section_4.1_S5_example_A_and_equivalent.nb` | Calculations associated with Example A and the construction of distinct parameter sets yielding the same input-output PDE coefficients, as discussed in Section 4.1 and Supplementary Section S5. |
-| `Section_4.2_locally_SI_coefficients.nb` | Symbolic calculations supporting the local structural identifiability analysis in Section 4.2, including the additional coefficients obtained from the initial conditions and the determination of equivalent parameter sets. |
+| `Section_4.2_locally_SI_coefficients.nb` | Symbolic calculations supporting the local structural identifiability analysis in Section 4.2, including the additional coefficients obtained from the initial conditions c<sub>9</sub>, c<sub>10</sub>, c<sub>11</sub> and the determination of equivalent parameter sets. |
 | `Section_S4_v2=v3.nb` | Calculations for the case of coinciding velocities, v<sub>2</sub> = v<sub>3</sub>, supporting the identifiability analysis of this special case in the Supplementary Information Section S4. |
 
 Each Mathematica notebook is accompanied by a PDF version with the same filename.
